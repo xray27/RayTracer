@@ -1,1 +1,1 @@
-A very, VERY bad ray tracer
+A ray tracer
